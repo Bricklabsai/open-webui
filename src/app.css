@@ -43,7 +43,8 @@ math {
 }
 
 .font-primary {
-	font-family: 'Archivo', sans-serif;
+	/* font-family: 'Archivo', sans-serif; */
+	font-family: ui-sans-serif, sans-serif;
 }
 
 iframe {

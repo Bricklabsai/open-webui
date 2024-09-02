@@ -389,7 +389,7 @@
 
 <style>
 	.font-mona {
-		font-family: 'Mona Sans';
+		font-family: ui-sans-serif, 'Mona Sans';
 	}
 
 	.scrollbar-hidden::-webkit-scrollbar {
